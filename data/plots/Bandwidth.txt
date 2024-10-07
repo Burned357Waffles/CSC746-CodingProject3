@@ -1,0 +1,41 @@
+Basic
+percent_utilization =  0.001136363636363636
+percent_utilization =  0.0005629838142153413
+percent_utilization =  0.0002799650043744532
+percent_utilization =  0.00013970138828254603
+percent_utilization =  6.975856994931602e-05
+
+omp-1
+percent_utilization =  0.00449438202247191
+percent_utilization =  0.0022346368715083793
+percent_utilization =  0.0011049723756906078
+percent_utilization =  0.0005487721223761833
+percent_utilization =  0.0002739468029552011
+
+omp-4
+percent_utilization =  0.00829875518672199
+percent_utilization =  0.004656577415599534
+percent_utilization =  0.0036133694670280035
+percent_utilization =  0.0020327785541862527
+percent_utilization =  0.0010605859737504973
+
+omp-16
+percent_utilization =  0.011111111111111112
+percent_utilization =  0.004889975550122249
+percent_utilization =  0.004842615012106539
+percent_utilization =  0.0024641922069921457
+percent_utilization =  0.0011409013120365085
+
+omp-64
+percent_utilization =  0.005780346820809247
+percent_utilization =  0.004357298474945533
+percent_utilization =  0.004744958481613285
+percent_utilization =  0.0023827252419955326
+percent_utilization =  0.0011014353078855883
+
+CBLAS
+percent_utilization =  0.02150537634408602
+percent_utilization =  0.015625
+percent_utilization =  0.003911980440097799
+percent_utilization =  0.0039005363237445143
+percent_utilization =  0.0008833922261484096

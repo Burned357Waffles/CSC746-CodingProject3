@@ -1,0 +1,83 @@
+#############################################
+RUN 1
+#############################################
+Working on problem size N=1024 
+ Elapsed time is : 0.00352
+Working on problem size N=1024 
+ Elapsed time is : 0.00352
+Working on problem size N=2048 
+ Elapsed time is : 0.01420
+Working on problem size N=4096 
+ Elapsed time is : 0.05710
+Working on problem size N=8192 
+ Elapsed time is : 0.22899
+Working on problem size N=16384 
+ Elapsed time is : 0.91758
+
+
+#############################################
+RUN 2
+#############################################
+Working on problem size N=1024 
+ Elapsed time is : 0.00352
+Working on problem size N=1024 
+ Elapsed time is : 0.00352
+Working on problem size N=2048 
+ Elapsed time is : 0.01420
+Working on problem size N=4096 
+ Elapsed time is : 0.05735
+Working on problem size N=8192 
+ Elapsed time is : 0.22917
+Working on problem size N=16384 
+ Elapsed time is : 0.91798
+
+
+#############################################
+RUN 3
+#############################################
+Working on problem size N=1024 
+ Elapsed time is : 0.00352
+Working on problem size N=1024 
+ Elapsed time is : 0.00352
+Working on problem size N=2048 
+ Elapsed time is : 0.01421
+Working on problem size N=4096 
+ Elapsed time is : 0.05710
+Working on problem size N=8192 
+ Elapsed time is : 0.22901
+Working on problem size N=16384 
+ Elapsed time is : 0.91718
+
+
+#############################################
+RUN 4
+#############################################
+Working on problem size N=1024 
+ Elapsed time is : 0.00351
+Working on problem size N=1024 
+ Elapsed time is : 0.00352
+Working on problem size N=2048 
+ Elapsed time is : 0.01421
+Working on problem size N=4096 
+ Elapsed time is : 0.05711
+Working on problem size N=8192 
+ Elapsed time is : 0.22921
+Working on problem size N=16384 
+ Elapsed time is : 0.91762
+
+
+#############################################
+RUN 5
+#############################################
+Working on problem size N=1024 
+ Elapsed time is : 0.00352
+Working on problem size N=1024 
+ Elapsed time is : 0.00352
+Working on problem size N=2048 
+ Elapsed time is : 0.01420
+Working on problem size N=4096 
+ Elapsed time is : 0.05709
+Working on problem size N=8192 
+ Elapsed time is : 0.22892
+Working on problem size N=16384 
+ Elapsed time is : 0.91689
